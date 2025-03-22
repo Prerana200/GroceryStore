@@ -1,2 +1,2 @@
-# GroceryStore
+# Grocery
 grocery store website
